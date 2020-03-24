@@ -26,4 +26,6 @@ Number theory is my weekness, such as unique decomposition theorem, Euler theore
 
 ### the novel coronavious
 
-The novel voronavious has been out of control, the number of confirmed patients is 333076, and the number increase 40832 just today! That is a lot more the number of confirmed patients in China. And the global economy has been falling incredibly. I guess the war is coming...
+The novel voronavious has been out of control, up to now, the number of confirmed patients is 333076, and the number increase 40832 just today! That is a lot more the number of confirmed patients in China. And the global economy has been falling incredibly. I guess the war is coming...
+
+![the novel coronavious](http://r.photo.store.qq.com/psc?/V11Be2CB0ZibdZ/gfbE2l9PHUztNHbA2prIH9wzRkSC.ZjWniYlJ01QtFxXNsgiSj58YIi0KJOqpCR37.JDimfyGJ0qIues26OKrvy7kQuyHWOyyRLddzEjeMU!/r)
