@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://github.com/tyu-t/tyu-t.github.io/TeXt-home.jpg)
+![TeXt Theme](https://images.pexels.com/photos/3635300/pexels-photo-3635300.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
 
 
 Hello~

@@ -10,7 +10,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: https://github.com/tyu-t/tyu-t.github.io/docs/assets/images/cover3.jpg
+    src: https://images.pexels.com/photos/3635300/pexels-photo-3635300.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
 date:   2020-03-23 15:13:44 +0800
 ---
 
