@@ -23,9 +23,9 @@ But I learned to use Jekyll to set up a blog site, and GitHub's use!
 
 ## an idea
 
-An idea came to me, although the blog site is set up, it don't be used to do something, because I usually write blog at CSDN.After all, CSDN is the technology blog, it can not upload all things, so I decided to write blogs which are not technology blogs at the site, for example diary...
+An idea came to me, although the blog site is set up, it don't be used to do something, because I usually write blogs at CSDN.After all, CSDN is the technology blog, it can not upload all things, so I decided to write blogs which are not technology blogs at the site, for example diary...
 
-I suddenly wonder again, I decided to use it as a English diary platform.
+An idea came to me again, I decided to use it as an English diary platform.
 
 Do what you say, so it is why it is here.
 
