@@ -16,12 +16,12 @@ date:   2020-03-23 15:13:44 +0800
 
 Today I did nothing, did not study, did not listen to class and did not review what.
 
-## but
+### but
 
 But I learned to use Jekyll to set up a blog site, and GitHub's use!
 
 
-## an idea
+### an idea
 
 An idea came to me, although the blog site is set up, it don't be used to do something, because I usually write blogs at CSDN.After all, CSDN is the technology blog, it can not upload all things, so I decided to write blogs which are not technology blogs at the site, for example diary...
 
@@ -29,7 +29,7 @@ An idea came to me again, I decided to use it as an English diary platform.
 
 Do what you say, so it is why it is here.
 
-## today
+### today
 
 Today is the first day, I don't write too much, The so-called"one spirit, then decline,three exhausts".
 
