@@ -16,7 +16,7 @@ date:   2020-03-25 16:25:44 +0800
 
 ### a big mistake
 
-A big mistake is made by me today--I exchanged my homework with Wang Sijie's homework accidentally! But the reason is forgivable. I help her to change the format of her homework because of her broken computer, but I exchanged them during handing in them accidentally. Fortunately I did not exchanged another classmate's homework, otherwise it will be a big disaster.
+A big mistake was made by me today--I exchanged my homework with Wang Sijie's homework accidentally! But the reason is forgivable. I help her to change the format of her homework because of her broken computer, but I exchanged them during handing in them accidentally. Fortunately I did not exchanged another classmate's homework, otherwise it will be a big disaster.
 
 It is OK, I do not care the little score, and I feel lucky because her score is higher than mine because of my homework. That make me have less sense of guilt. 
 
