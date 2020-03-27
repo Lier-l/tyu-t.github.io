@@ -16,4 +16,4 @@ date:   2020-03-26 16:25:44 +0800
 
 ### back to FC period
 
-Back to Fc period! Many years ago I loved playing FC card games with my friends very much. Today I find that I can play FC games on my computer! And most of my favorite games can be found on the internet, such as "Metal Max", "Red fortress" and "Double Dragon". The simulator only needs less than 1M space.
+Back to FC period! Many years ago I loved playing FC card games with my friends very much. Today I find that I can play FC games on my computer! And most of my favorite games can be found on the internet, such as "Metal Max", "Red fortress" and "Double Dragon". The simulator only needs less than 1M space.
