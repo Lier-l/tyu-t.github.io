@@ -9,7 +9,7 @@ article_header:
   theme: dark
   background_color: '#808A87'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    gradient: 'linear-gradient(135deg, rgba(0, 0, 0 , .4), rgba(139, 34, 139, .4))'
     src: https://images.pexels.com/photos/236151/pexels-photo-236151.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
 date:   2020-04-8 22:00:44 +0800
 ---
