@@ -16,7 +16,7 @@ date:   2020-04-14 22:00:44 +0800
 
 ## I like drawing
 
-I like drawing when I was in high school. I used to draw some picture I like, but most of them were flowers, grass and so on. For example:![](http://m.qpic.cn/psc?/V11Be2CB0ZibdZ/MoK.EY8GiNN2Kt4U8x1aWLGq3fJzmNqYgHLj46I8H.5JX1e1o6b5QAUxTDYH10g6JdC*y9JD4FJtZNe96UDM0g!!/b&bo=wAQ4BMAEOAQRCT4!&rf=viewer_4)
+I like drawing when I was in high school. I used to draw some picture I like, but most of them were flowers, grass and so on. For example:<img src="http://m.qpic.cn/psc?/V11Be2CB0ZibdZ/MoK.EY8GiNN2Kt4U8x1aWLGq3fJzmNqYgHLj46I8H.5JX1e1o6b5QAUxTDYH10g6JdC*y9JD4FJtZNe96UDM0g!!/b&amp;bo=wAQ4BMAEOAQRCT4!&amp;rf=viewer_4" style="zoom: 25%;" />
 
 Most of them were lost because of my careless.
 
@@ -24,9 +24,9 @@ Most of them were lost because of my careless.
 
 Drawing on my cell phone is interesting. I used to draw on paper with a pencil. I never try drawing on my phone because I think the screen is too small and there is no pen to touch. 
 
-And now I have one small pen...:![](http://m.qpic.cn/psc?/V11Be2CB0ZibdZ/MoK.EY8GiNN2Kt4U8x1aWB4OQk9PMJsfofvThl2FtAXqEZ82w*.4s4omyrUR1OlKE9udtFyT1qhVyBZPyWQ46w!!/b&bo=4QqAAkAPgQMRCZo!&rf=viewer_4)
+And now I have one small pen...:<img src="http://m.qpic.cn/psc?/V11Be2CB0ZibdZ/MoK.EY8GiNN2Kt4U8x1aWB4OQk9PMJsfofvThl2FtAXqEZ82w*.4s4omyrUR1OlKE9udtFyT1qhVyBZPyWQ46w!!/b&amp;bo=4QqAAkAPgQMRCZo!&amp;rf=viewer_4" style="zoom: 10%;" />
 
-and a beautiful picture:![](http://m.qpic.cn/psc?/V11Be2CB0ZibdZ/MoK.EY8GiNN2Kt4U8x1aWK91Bb0In346USBb1II0W*RApNU71NyI31PhSEJehZ9S64w3DrNR*TnEqxFLy.BWJw!!/b&bo=0ALQAgAAAAARBzA!&rf=viewer_4)
+and a beautiful picture:<img src="http://m.qpic.cn/psc?/V11Be2CB0ZibdZ/MoK.EY8GiNN2Kt4U8x1aWK91Bb0In346USBb1II0W*RApNU71NyI31PhSEJehZ9S64w3DrNR*TnEqxFLy.BWJw!!/b&amp;bo=0ALQAgAAAAARBzA!&amp;rf=viewer_4" style="zoom: 33%;" />
 
 ## let us do it
 
