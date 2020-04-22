@@ -26,4 +26,4 @@ The disaster came suddenly. His eyesight degenerated rapidly in half a day! He w
 
 It shocked me deeply, even though I had just heard about the collapse of the US oil market. He was my source of happiness. I believe that miracles can only happen to extraordinary people and he will do wonders!
 
-![](http://m.qpic.cn/psc?/V11Be2CB0ZibdZ/MoK.EY8GiNN2Kt4U8x1aWHpe5W7WdICR2xvW8TAQSbwPvUnion4w*jhjLgHWmzgIeKd2iSqg5rigHrgv2U7pPA!!/b&bo=OARuAwAAAAADB3M!&rf=viewer_4)
+<img src="http://m.qpic.cn/psc?/V11Be2CB0ZibdZ/MoK.EY8GiNN2Kt4U8x1aWHpe5W7WdICR2xvW8TAQSbwPvUnion4w*jhjLgHWmzgIeKd2iSqg5rigHrgv2U7pPA!!/b&amp;bo=OARuAwAAAAADB3M!&amp;rf=viewer_4" style="zoom: 40%;" />
