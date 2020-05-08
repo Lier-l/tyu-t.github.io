@@ -16,7 +16,7 @@ date:   2020-05-08 22:00:44 +0800
 
 ## as exacted
 
-As expected, she came to me again. It is obviously to see that she do not want to broke up with me. I really do not want to see her like this because I am afraid that I can not help holding her. But on the other hand I do not think we will be together forever. After careful consideration, I found that every we quarreled, there were only a few reasons. Every time I fantasize that I can solve problems. But there is no doubt that the huge differences between us are very difficult to overcome. I do not think one more time will solve the problem.
+As expected, she came to me again. It is obviously to see that she do not want to break up with me. I really do not want to see her like this because I am afraid that I can not help going back and holding her in my arm. But on the other hand I do not think we will be together forever. After careful consideration, I found that every we quarreled, there were only a few reasons. Every time I fantasize that I can solve problems. But there is no doubt that the huge differences between us are very difficult to overcome. I do not think one more time will solve the problem.
 
 ## what is unexpected
 
